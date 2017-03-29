@@ -1,0 +1,9 @@
+﻿  path.cpp
+p:\private\cmpsc441\astar\astar\astar\path.cpp(89): warning C4018: '<': signed/unsigned mismatch
+p:\private\cmpsc441\astar\astar\astar\path.cpp(147): warning C4018: '<': signed/unsigned mismatch
+p:\private\cmpsc441\astar\astar\astar\path.cpp(179): warning C4018: '<': signed/unsigned mismatch
+p:\private\cmpsc441\astar\astar\astar\path.cpp(194): warning C4018: '<': signed/unsigned mismatch
+  Node.cpp
+  Generating Code...
+  aStar.vcxproj -> P:\Private\CMPSC441\AStar\aStar\Debug\aStar.exe
+  aStar.vcxproj -> P:\Private\CMPSC441\AStar\aStar\Debug\aStar.pdb (Full PDB)
